@@ -1,0 +1,25 @@
+
+
+.navbarstyle{
+    background-color: pink;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+
+.navfont{
+    /* style='font-family: "YAD1aU3sLnI 0", -apple-system, BlinkMacSystemFont, sans-serif;' */
+   font-family:  sans-serif;
+   color: rgb(5, 5, 5);
+   font-weight: 600;
+}
+
+.homeimg{
+    height: 369px;
+    width: 434px;
+}
+
+.homepage{
+    background-color: rgb(40, 89, 106);
+
+}
